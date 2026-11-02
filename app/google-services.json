@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47664732624",
+    "project_id": "com-oleje-trainplannerap-cd991",
+    "storage_bucket": "com-oleje-trainplannerap-cd991.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47664732624:android:d0b43a85c7d0dd1e4ac1d5",
+        "android_client_info": {
+          "package_name": "com.oleje.trainplannerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8xKhd_S4oqo0Ot6JobUMpIofpen4iTT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
